@@ -15,5 +15,5 @@ así como se utilizaron herramientas para la visualización gráfica de algunos 
 
 [Reporte en formato html](./A1.1%20611471.html) 
 
-<a href="./dataset.csv" download>Base de datos</a>  
+<a href="A1.1 Obesidad.csv" download>Base de datos</a>  
 
