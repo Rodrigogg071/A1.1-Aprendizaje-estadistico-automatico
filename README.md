@@ -11,9 +11,9 @@ En esta actividad se utilizó una base de datos con información respecto a los 
 Se analizaron las características de esta base de datos y se hicieron propuestas sobre otros datos relevantes al tema que podrían incluirse en el estudio del que se obtuvo la información, 
 así como se utilizaron herramientas para la visualización gráfica de algunos datos seleccionados. 
 
-[`Reporte en formato ipynb`](./A1.1%20611471.ipynb)
+[Reporte en formato ipynb](./A1.1%20611471.ipynb)
 
-[`Reporte en formato html`](./A1.1%20611471.html) 
+[Reporte en formato html](./A1.1%20611471.html) 
 
-[`Base de datos`](./dataset.csv)
+[Base de datos](./dataset.csv)
 
